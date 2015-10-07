@@ -1,0 +1,48 @@
+
+[{
+    "FirstName": {"first name":"John", "show" :" yes"},
+    "LastName": {"second name": "Smith", "show" :"yes"},
+    "Address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021",
+      "show" : "yes"
+    },
+    "PhoneNumber": [{
+      "type": "home",
+      "number": "212 555-1234",
+      "show" : "no"
+    }, {
+      "type": "fax",
+      "number": "646 555-4567",
+      "show" : "no"
+    }],
+    "date of birth": "28 dec 2000",
+    "Age": {"age" : "25" , "show" :"no"}
+  },
+  {
+    "FirstName": {"first name":"John", "show" :" yes"},
+    "LastName": {"second name": "Smith", "show" :"yes"},
+    "Address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021",
+      "show" : "yes"
+    },
+    "PhoneNumber": [{
+      "type": "home",
+      "number": "212 555-1234",
+      "show" : "no"
+    }, {
+      "type": "fax",
+      "number": "646 555-4567",
+      "show" : "no"
+    }],
+    "date of birth":{"dob" :"28 dec 2000", "show" : "no"},
+    "Age": {"age" : "25" , "show" :"no"}
+  }
+  
+
+]
